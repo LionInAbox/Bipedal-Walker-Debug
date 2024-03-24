@@ -1,4 +1,4 @@
 This is a modified version of open ai's project
 https://github.com/openai/gym/blob/master/gym/envs/box2d/bipedal_walker.py
 
-It contains downwards movement, and optimized visual display, that also allows for up and down movements of the camera.
+It contains optimized visual display, that allows for up and down movements of the camera.
